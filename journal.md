@@ -1,31 +1,34 @@
 # Journal Entry #1: Sara & Toomie
-## Proposed Robot: Professor Plum
-### 17 September 2024
+# 17 September 2024
 
 ## Inspiration: 
-[Mr. Medulla from Sky High](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG)
+[Mr. Medulla from Sky High (Click to watch a video compilation)](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG) <br>
+![COLLAGE-2](https://github.com/user-attachments/assets/f6ee1f44-0c9b-42cd-8760-a0de5c88f9cb)
 
-## Trope: 
-### Absent-minded professor </br>
-Academically gifted in the sciences, but socially clueless & unaware of his surroundings
+## Proposed Robot: Professor Plum
+### Trope: 
+*Absent-minded professor </br>*
+- Academically gifted in the sciences, but socially clueless & unaware of his surroundings
 
-*[Description from TVTropes.org](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)*
+[Description from TVTropes.org:](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)
 
-*This Stock Character is a brilliant scientist but is very flighty, His mind tends to run a mile a minute, he can often struggle to hold a normal conversation, and it's typical for him to become so engrossed in his work that he loses track of just about everything else. Good thing he is good at what he does and often has perfect memory for scientific details or mathematical values.*
+> *This Stock Character is a brilliant scientist but is very flighty. His mind tends to run a mile a minute, he can often struggle to hold a normal conversation, and it's typical for him to become so engrossed in his work that he loses track of just about everything else. Good thing he is good at what he does and often has perfect memory for scientific details or mathematical values.*
 
-What special features does it need? How will you construct it? 
-Cardboard base with attachments
+## What special features does the robot need? How will we construct it? 
+### Cardboard base with *miscellaneous attachments* we hope to construct: 
 
-Outfit:
+<strong> Outfit: </strong>
 - Loosely fitting, long lab coat (not well tailored) with long dangly sleeves
 - Collared shirt & plum-collared tie underneath
 
-Physical appearance:
-- Brain sticking out (scrap wire & LED cluster?), under a clear dome— lights up whenever he has an epiphany (LIGHT BULB)
-- Bigger head relative to body
+<strong> Physical appearance: </strong> </br>
+- *Brain sticking out (scrap wire & LED cluster?), under a clear dome— lights up whenever he has an epiphany ("LIGHT BULB")*
+- Bigger head relative to body (both of which would be constructed from cardboard)
+  
+<strong> Accessories: </strong>
+- Comically large, 70s-style thick-lens glasses
+- *Pipe in his mouth that releases steam (maybe a mini fog/ smoke machine inside?)*
 
-Accessories:
-- Comically large (70s), thick-lens glasses
-- Pipe that releases steam?
+## Sketch
+![unnamed](https://github.com/user-attachments/assets/d1d7d572-dbc5-49ca-92e5-4066d26d8a09)
 
-Sketch
