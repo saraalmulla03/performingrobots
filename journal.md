@@ -1,8 +1,8 @@
 # Journal Entry #1: Sara & Toomie
-### Proposed Robot: Professor Plum
+## Proposed Robot: Professor Plum
 ### 17 September 2024
 
-### Inspiration: 
+## Inspiration: 
 [Mr. Medulla from Sky High](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG)
 
 ## Trope: 
