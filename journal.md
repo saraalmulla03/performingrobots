@@ -3,8 +3,7 @@
 ### 17 September 2024
 
 ## Inspiration: 
-Mr. Medulla from Sky High
-[![YouTube video player](https://img.youtube.com/vi/RlYomXXCsZc/hqdefault.jpg)](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG)
+[Mr. Medulla from Sky High](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG)
 
 ## Trope: 
 Absent-minded professor
