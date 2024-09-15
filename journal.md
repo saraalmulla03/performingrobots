@@ -6,7 +6,7 @@
 [Mr. Medulla from Sky High](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG)
 
 ## Trope: 
-Absent-minded professor
+### Absent-minded professor </br>
 Academically gifted in the sciences, but socially clueless & unaware of his surroundings
 
 *[Description from TVTropes.org](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)*
