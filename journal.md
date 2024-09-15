@@ -34,6 +34,4 @@
 ![unnamed](https://github.com/user-attachments/assets/d1d7d572-dbc5-49ca-92e5-4066d26d8a09)
 
 ## More inspo pics
-![27716](https://github.com/user-attachments/assets/d3c6bd4a-4271-4320-a9e1-fe35c9d14bc3)
-![400px-Professor_Plum_2_-_Edited-2](https://github.com/user-attachments/assets/2340a0af-6af6-4b6b-ab7a-37b792b5a1eb)
-![Splutnik](https://github.com/user-attachments/assets/37e0691d-e66a-443a-b1d7-9eed475ce394)
+![COLLAGE-3](https://github.com/user-attachments/assets/7d51a1d2-c133-4ea9-8304-bc7ec524e09d)
