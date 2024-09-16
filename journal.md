@@ -8,7 +8,10 @@
 ## Proposed Robot: Professor Plum
 ### Trope: 
 *Absent-minded professor </br>*
-- Academically gifted in the sciences, but socially clueless & unaware of his surroundings
+- Academically gifted in the sciences, but socially clueless & unaware of his surroundings.
+- He can talk for hours about his latest project, oblivious to how his audience doesn’t understand what he’s saying.
+- Often sports a lab coat in inappropriate settings because he forgets to take it off.
+- Struggles with social cues and conversations. He might interrupt people, go off on tangents, or completely miss the point of a discussion. Social norms are a mystery to him, leading to awkward or humorous interactions.
 
 [Description from TVTropes.org:](https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentMindedProfessor)
 
