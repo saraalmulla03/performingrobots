@@ -1,6 +1,8 @@
-# Journal Entry #1: Sara & Toomie
-# 17 September 2024
+# Journal Entries: Sara & Toomie
+# Entry 2 (Toomie)
+https://github.com/oomie/performingRobots/blob/main/journal.md#latest-entry
 
+# Entry 1 (Sara)
 ## Inspiration: 
 [Mr. Medulla from Sky High (Click to watch a video compilation)](https://www.youtube.com/embed/RlYomXXCsZc?si=-aU2hva91_QX-IDG) <br>
 ![COLLAGE-2](https://github.com/user-attachments/assets/f6ee1f44-0c9b-42cd-8760-a0de5c88f9cb)
