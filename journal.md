@@ -1,4 +1,22 @@
 # Journal Entries: Sara & Toomie
+# Entry 3
+On Thursday, Toomie & I got started by attaching the servo motor wheels & the 360° wheels to the board. First, we attached the servo motor wheels using nuts, bolts and washers:
+![IMG_4743](https://github.com/user-attachments/assets/85ea0505-0bbf-4d1f-becc-067a6b88ee56)
+![IMG_4745](https://github.com/user-attachments/assets/bcf7299d-f247-4f55-9e05-a4ce2848a7da)
+
+Then, we selected an appropriately-sized piece of wood that we cut in half to go under the 360° wheels:
+![34b4e3f5-8a31-4050-ba64-8dab6a94420f](https://github.com/user-attachments/assets/cab5e022-fc13-49c0-be36-e4b94c82c783)
+
+After this, we placed the slab of wood underneath our board, and drilled two more little holes on the sides of the board where the 360° wheels would go, securing them together with screws on either side:
+![e925d216-e917-4fda-918f-521189ef381f](https://github.com/user-attachments/assets/44e1c515-6a6e-4b06-bb2f-22e4022174ab)
+![e0590e68-7e1d-43c4-ac3f-6ae917012d69](https://github.com/user-attachments/assets/11a2793c-4524-41b0-b82e-3a7a48d95559)
+
+We then secured the 360° wheels underneath the attached slab underneath the board, ensuring that there would be wiggle space between the two wheels. 
+
+After we finalized this, we go to work with starting the Arduino, L298N, and battery attachment process. We drilled 4 holes in the middle-left side of the board around where we wanted the battery to be, attaching it with zipties before cleaning up for the end of class:
+![IMG_4750](https://github.com/user-attachments/assets/088780fe-39ae-49f8-acd7-11556d022dd4)
+![IMG_4753](https://github.com/user-attachments/assets/bdf3aa81-eec4-4f73-9707-5e5d3c666865)
+
 # Entry 2 (Toomie)
 https://github.com/oomie/performingRobots/blob/main/journal.md#latest-entry
 
