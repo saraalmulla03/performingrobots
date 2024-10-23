@@ -18,7 +18,7 @@ After this, we placed the slab of wood underneath our board, and drilled two mor
 
 We then secured the 360° wheels underneath the attached slab underneath the board, ensuring that there would be wiggle space between the two wheels. 
 
-After we finalized this, we go to work with starting the Arduino, L298N, and battery attachment process. We drilled 4 holes in the middle-left side of the board around where we wanted the battery to be, attaching it with zipties before cleaning up for the end of class:
+After we finalized this, we got to work with starting the Arduino, L298N, and battery attachment process. We drilled 4 holes in the middle-left side of the board around where we wanted the battery to be, attaching it with zipties before cleaning up for the end of class:
 ![IMG_4750](https://github.com/user-attachments/assets/088780fe-39ae-49f8-acd7-11556d022dd4)
 ![IMG_4753](https://github.com/user-attachments/assets/bdf3aa81-eec4-4f73-9707-5e5d3c666865)
 
