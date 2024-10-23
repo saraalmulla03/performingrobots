@@ -1,4 +1,9 @@
 # Journal Entries: Sara & Toomie
+# Entry 4
+## Updated sketch with added technologies
+
+![IMG_2033](https://github.com/user-attachments/assets/a96198d9-d429-4622-92ed-28fa860d0d4a)
+
 # Entry 3
 On Thursday, Toomie & I got started by attaching the servo motor wheels & the 360° wheels to the board. First, we attached the servo motor wheels using nuts, bolts and washers:
 ![IMG_4743](https://github.com/user-attachments/assets/85ea0505-0bbf-4d1f-becc-067a6b88ee56)
