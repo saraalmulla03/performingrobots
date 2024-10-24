@@ -1,5 +1,5 @@
 # Journal Entries: Sara & Toomie
-# Entry 4
+# Entry 4: 24th of October 2024
 ## Updated sketch with added technologies
 
 ![IMG_2033](https://github.com/user-attachments/assets/a96198d9-d429-4622-92ed-28fa860d0d4a)
